@@ -1,0 +1,11 @@
+﻿<!-- Sample Resource for style referencing -->
+    
+ <ResourceDictionary 
+     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     xmlns:local="clr-namespace:Arkanoid.Resources">
+    
+     <!-- Colors -->
+    <SolidColorBrush x:Key="colorDefaultBackground">#f5f3f1</SolidColorBrush>
+
+</ResourceDictionary>
