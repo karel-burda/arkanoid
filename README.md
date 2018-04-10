@@ -1,4 +1,6 @@
-# README #
+# Introduction #
+
+**Please, keep in mind that this is rather old project I was working on in 2014 as part of a recruitment process and had few days for this project while going to regular job during the day** 
 
 This is my very first project in the C# and WPF, and It's supposed to be a simple Arkanoid game without usage of any special framework :)
 
